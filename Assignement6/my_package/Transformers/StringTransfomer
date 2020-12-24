@@ -1,0 +1,5 @@
+def String_reverse(word):
+    return word[::-1]
+
+def String_captalize(word):
+    return word.capitalize()
